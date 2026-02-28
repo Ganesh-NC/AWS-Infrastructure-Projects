@@ -1,1 +1,0 @@
-This project demonstrates the deployment of a highly available static website using AWS services. The architecture ensures reliability by using multiple Availability Zones, automated backups, and reusable machine images.
