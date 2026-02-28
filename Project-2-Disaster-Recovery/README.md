@@ -1,0 +1,1 @@
+Simulated a server failure and implemented a disaster recovery solution using EC2, EBS Snapshots, and AMIs. Successfully restored the application and data on a new instance. Demonstrates backup and recovery strategies in AWS cloud environments
